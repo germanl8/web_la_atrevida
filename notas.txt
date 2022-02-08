@@ -1,0 +1,4 @@
+letra titulo = Amaranth
+letra subtitle = Volkorn
+
+background color: #F0F7F5
