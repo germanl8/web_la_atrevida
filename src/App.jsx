@@ -3,7 +3,7 @@ import Barrasup from './components/Barrasup';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
-import './css/custom.css'
+import './css/NavBar.css'
 
 
 import './App.css';
